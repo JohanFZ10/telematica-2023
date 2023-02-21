@@ -1,0 +1,7 @@
+1-  git init: Inicializa proyecto en git
+2-  git config: Configurar datos de usuario
+        git config --global user.name"FelipeCHP07"
+        git config --global user.email"ichaparropirajon@gmail.com"
+3-  git status: Estado del larchivo
+4-  git add "file" (agrega archivo en especifico) // git add . (agrega los archivos que esten sin seguimiento)
+5- git commit -m "Message"
