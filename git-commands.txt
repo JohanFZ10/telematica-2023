@@ -1,0 +1,8 @@
+***************** git commands **************
+1- git init -- Inicializar un proyeto con Git
+2- git config -- Comando para configuar datos de usuario
+    git config --global user.name "Johanfz"
+    git config --global user.email "andres@gmail.com"
+3- git status  -- Estado de mis archivos
+4- git add .  -- Comando para agregar archivos al Staging-Area
+5- git commit -m "message"
