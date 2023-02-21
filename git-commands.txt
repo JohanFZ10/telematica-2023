@@ -4,4 +4,12 @@
         git config --global user.email"ichaparropirajon@gmail.com"
 3-  git status: Estado del larchivo
 4-  git add "file" (agrega archivo en especifico) // git add . (agrega los archivos que esten sin seguimiento)
-5- git commit -m "Message"
+5- git commit -m "Message" // contiguo a main sale el ID del mensaje
+6- git log
+
+// Q  para salir de la consola si entra en un comando
+// git checkout . (recupera el ultimo commit en red (recupera el ultimo archivo aun si este se borro) / git checkout ID : ID siendo el identificador del command
+// git checkout main :  (vuelve a la rama main (puede recuperar archivo)
+// git branch (ramas del proyecto) 
+// git remote -v (origin actual )
+// git push -u origin main (subir archivo al repositorio  -u update origin (adonde va main) (rama que quiere enviar)
