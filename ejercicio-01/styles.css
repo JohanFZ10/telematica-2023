@@ -1,46 +1,42 @@
-h1 {
-  color: red;
-  font-size: 40px;
+body{
+  background-color:  rgba(52, 73, 94,1);
+  font-family: 'Times New Roman', Times, serif;
 }
-h2 {
-  color: lightcoral;
-  font-size: 20px;
-}
-.container{
-  width: 100%;
-  height: 60px;
+.login-page{
   display: flex;
-  justify-content: center;
-  background-color: white;
-}
-div {
-  background-color: brown;
-  width: 200px;
-  height: 200px;
-  border: 3px solid black;
-  padding-top: 40px;
-  padding-left: 40px;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+  margin-top: 150px;
+  width: 30%;
+  height: 450px;
+  background-color: rgba(213, 219, 219,0.3) ;
 }
 
-
-button{
-  background-color: blueviolet;
+.login-page form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+  margin-top: 80px;
+  width: 100%;
+}
+.login-page input{
+  width: 60%;
+  height: 40px;
+  border-radius: 40px;
+  padding: 15px;
+  margin-top: 10px;
+  border: none;
 }
 
-.btn-johan{
-  background-color: lightgreen;
-}
-.btn-laura{
-  background-color: lightslategrey;
-}
-
-#btn-johan{
-  width: 15%;
-  height: 35px;
-  margin-left: 5px;
-}
-#btn-laura{
-  width: 40%;
-  height: 20px;
-  margin-left: 5px;
+.btn-login{
+  font-weight: bold;
+  width: 50%;
+  height: 30px;
+  margin-top: 30px;
+  border-radius: 15px;
+  border: none;
+  background-color: #CD3F2E ;
+  color: white;
 }
