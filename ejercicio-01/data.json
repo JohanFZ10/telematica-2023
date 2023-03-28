@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Johan",
+    "age": 24,
+    "status": true,
+    "sports": ["futbol", "tennis", "tejo"]
+  },
+  {
+    "name": "Nicolas",
+    "age": 23,
+    "status": true,
+    "sports": ["Xbox", "Poker", "tejo"]
+  },
+  {
+    "name": "Cesar",
+    "age": 23,
+    "status": true,
+    "sports": ["futbol", "Xbox", "tejo"]
+  }
+]
