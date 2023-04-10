@@ -44,7 +44,6 @@ const txtUser = document.getElementById('user')
 
 console.log(txtUser.value)
 btnLogin.onclick = ()=>{
-    // console.log()
+    console.log("click")
 }
 
-alert("Hola")
